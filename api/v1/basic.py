@@ -26,7 +26,7 @@ def insertComponent(componentRow):
 def basic():
     component = getComponent(Component(
         'basic',
-        'Hello World!!!!!!!',
+       'MAMALA',
         'A boilerplate for a Flask and React app.',
         'Now with Materiaul UI'
     ))
